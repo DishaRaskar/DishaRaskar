@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a freelance developer, building projects around AI/ML, React apps, and full-stack systems.<br>👯 I’m looking to collaborate on: open-source AI tools, smart apps, and creative frontend projects.<br>🤝 I’m looking for help with pushing LLMs to run smoother on edge devices.<br>🌱 I’m currently learning: LangChain, and advanced frontend animation (Framer Motion, GSAP, Three.js).<br>💬 Ask me about: on-device AI, React Native, full-stack development, and telemetry systems.<br>⚡ Fun fact: I once built a rocket ground station that streamed real-time flight telemetry during international competitions 🚀.
+🔭 I’m currently working as a freelance developer, building projects around AI/ML, Web3, React apps, and full-stack systems.<br>👯 I’m looking to collaborate on: open-source AI tools, Web3 apps, and creative frontend projects.<br>🤝 I’m looking for help with pushing LLMs to run smoother on edge devices.<br>🌱 I’m currently learning: LangChain, and advanced frontend animation (Framer Motion, GSAP, Three.js).<br>💬 Ask me about: on-device AI, React Native, full-stack development, and telemetry systems.<br>⚡ Fun fact: I once built a rocket ground station that streamed real-time flight telemetry during international competitions 🚀.
 
 
 ## 🌐 Socials:
